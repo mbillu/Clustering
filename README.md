@@ -17,3 +17,6 @@ Save file as filename.java
 **Disadvantages of Kmedoid Algorithm**
 1. Time ccomplexity is more than Kmeans clustering Algorithm.
 2. Accuracy of Kmedoid totally depends on initial clusters chosen(initial clusters must be chosen that they differ from each other greatly).
+
+**Constrain**
+This code is for 3 clusters.It could be changes further.
